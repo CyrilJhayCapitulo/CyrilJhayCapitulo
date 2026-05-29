@@ -40,8 +40,6 @@ My experience spans engineering automation, semiconductor test systems, data pro
 
 ## 🌱 Currently Exploring
 
-- Data Analytics
-- Machine Learning
 - AI-Powered Applications
 - Business Intelligence
 - Cloud Technologies
