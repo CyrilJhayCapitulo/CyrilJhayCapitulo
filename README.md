@@ -80,6 +80,17 @@ AI-assisted tool that compares resumes against job descriptions and identifies s
 
 The following projects were developed in professional and research environments. Due to confidentiality, intellectual property, and NDA restrictions, source code and implementation details cannot be publicly shared.
 
+### 🤖 ShellGPT
+**AI-Based Eagle Shell Debug Assistant**
+
+Designed an AI-assisted debugging and knowledge-support solution to accelerate troubleshooting, improve developer productivity, and simplify access to engineering knowledge.
+
+**Recognition**
+- TI Philippines New Wave Summit 2026
+- 1st Runner-Up
+
+---
+
 ### 🏆 TestMate
 **Test Methodology Automated Tool Extractor for ETS 364 Programs**
 
@@ -109,7 +120,7 @@ Developed a solution to assist in translating and migrating test resources betwe
 Developed automation concepts to improve loadboard validation workflows and engineering productivity through automated verification techniques.
 
 **Presented At**
-- New Wave Summit 2026
+- TI Philippines New Wave Summit 2026
 
 ---
 
@@ -119,22 +130,13 @@ Developed automation concepts to improve loadboard validation workflows and engi
 Designed a centralized platform concept to improve accessibility, organization, and sharing of engineering information across teams and device ecosystems.
 
 **Presented At**
-- New Wave Summit 2026
-
----
-
-### 🤖 ShellGPT
-**AI-Based Eagle Shell Debug Assistant**
-
-Designed an AI-assisted debugging and knowledge-support solution to accelerate troubleshooting, improve developer productivity, and simplify access to engineering knowledge.
-
-**Presented At**
-- New Wave Summit 2026
-
+- TI Philippines New Wave Summit 2026
+  
 ---
 
 ## 🏅 Achievements
 
+- 🥇 1st Runner-Up — TI Philippines New Wave Summit 2026
 - 🥈 2nd Runner-Up — TI Clark Technical Symposium 2025
 - 🎤 Best Presenter Award — TI Clark Technical Symposium 2025
 - 🏆 Poster Awardee — TI Philippines Technical Conference 2025
