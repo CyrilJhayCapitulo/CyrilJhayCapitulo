@@ -48,6 +48,20 @@ My experience spans engineering automation, semiconductor test systems, data pro
 
 ## 🔨 Featured Projects
 
+# SheetDiff
+
+SheetDiff is a Python-based desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
+
+## Features
+
+- Side-by-side Excel comparison
+- Visual highlighting of added, deleted, and modified cells
+- Key-column based matching
+- Row alignment for easier review
+- Export comparison results to Excel
+- Dark and light mode support
+- Built with CustomTkinter and tksheet
+  
 ### AI Data Assistant *(In Development)*
 An AI-powered application that analyzes uploaded datasets and answers questions using natural language.
 
