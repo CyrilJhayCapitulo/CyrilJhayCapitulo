@@ -19,7 +19,7 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 
 ## 🔨 Featured Projects
 
-<h3> 📑 SheetDiff <a href="https://github.com/CyrilJhayCapitulo/SheetDiff"> <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="20"> </a> </h3>
+### 📑 [SheetDiff](https://github.com/CyrilJhayCapitulo/SheetDiff) <a href="https://github.com/CyrilJhayCapitulo/SheetDiff"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="18"></a>
 
 **Python • CustomTkinter • OpenPyXL • tksheet**
 
@@ -27,7 +27,7 @@ A Python desktop application for comparing Excel spreadsheets side-by-side. Desi
 
 ---
 
-<h3> ⚒️ QueryForge <a href="https://github.com/CyrilJhayCapitulo/QueryForge"> <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="20"> </a> </h3>
+### ⚒️ [QueryForge](https://github.com/CyrilJhayCapitulo/QueryForge) <a href="https://github.com/CyrilJhayCapitulo/QueryForge"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="18"></a>
 
 **Python • SQLite • CustomTkinter • OpenPyXL • tksheet**
 
