@@ -158,6 +158,8 @@ Developed an IoT-based soil quality monitoring system as an undergraduate thesis
 
 [![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-S-gF4AHOolp-BGFvEoO_CTz82WiKGxu/view?usp=sharing)
 
+---
+
 ### 📚 E-Library Management System
 
 **VB.NET • MySQL • phpMyAdmin • Windows Forms**
