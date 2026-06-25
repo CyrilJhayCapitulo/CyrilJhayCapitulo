@@ -191,7 +191,7 @@ Designed a centralized platform concept to improve accessibility, organization, 
 [![Email](https://img.shields.io/badge/Email-cvcapitulo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvcapitulo@gmail.com)
 
 ---
-
+<!--
 ## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -209,7 +209,7 @@ Designed a centralized platform concept to improve accessibility, organization, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
+-->
 > *Building intelligent software and data-driven solutions that transform complex engineering challenges into real-world impact.*
 
 
