@@ -50,44 +50,29 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+Python • SQL • C/C++ • Java • Kotlin
 
 ### 📊 Data Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel_Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Spotfire](https://img.shields.io/badge/TIBCO_Spotfire-FF6C00?style=for-the-badge)
+Pandas • Spotfire • Excel Macros • Power BI *(Learning)*
+
+### ☁️ Cloud Technologies
+
+Firebase • Microsoft Azure *(Learning)*
 
 ### 🗄️ Data Engineering
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+SQLite • MySQL • Databricks *(Learning)*
 
 ### 🔬 Engineering Test Systems
 
-![Eagle ETS 88](https://img.shields.io/badge/Eagle_ETS_88-Engineering-blue?style=for-the-badge)
-![Eagle ETS 364](https://img.shields.io/badge/Eagle_ETS_364-Engineering-blue?style=for-the-badge)
-![Eagle ETS 800](https://img.shields.io/badge/Eagle_ETS_800-Engineering-blue?style=for-the-badge)
-![VLCT](https://img.shields.io/badge/VLCT-Test_System-darkgreen?style=for-the-badge)
+Eagle ETS 88 • Eagle ETS 364 • Eagle ETS 800 • VLCT
   
 ---
 
 ## 🌱 Currently Exploring
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge)
+Artificial Intelligence • Generative AI • Machine Learning • Business Intelligence
 
 ---
 ## 🔨 Future Projects
