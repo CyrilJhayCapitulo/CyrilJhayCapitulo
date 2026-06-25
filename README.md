@@ -20,7 +20,7 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 ## 🔨 Featured Projects
 
 <h2>
-  <img src="SheetDiffLogoPNG.png" width="28" alt="SheetDiff Logo" valign="middle">
+  <img src="https://github.com/CyrilJhayCapitulo/SheetDiff/SheetDiffLogoPNG.png" width="28" alt="SheetDiff Logo" valign="middle">
   SheetDiff
   <a href="https://github.com/CyrilJhayCapitulo/SheetDiff" title="Repository">
     <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="18">
