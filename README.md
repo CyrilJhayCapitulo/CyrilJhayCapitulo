@@ -48,23 +48,23 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 
 ## 🚀 Technical Stack
 
-### 💻 Languages
+#### 💻 Languages
 
 Python • SQL • C/C++ • Java • Kotlin
 
-### 📊 Data Analytics
+#### 📊 Data Analytics
 
 Pandas • Spotfire • Excel Macros • Power BI *(Learning)*
 
-### ☁️ Cloud Technologies
+#### ☁️ Cloud Technologies
 
 Firebase • Microsoft Azure *(Learning)*
 
-### 🗄️ Data Engineering
+#### 🗄️ Data Engineering
 
 SQLite • MySQL • Databricks *(Learning)*
 
-### 🔬 Engineering Test Systems
+#### 🔬 Engineering Test Systems
 
 Eagle ETS 88 • Eagle ETS 364 • Eagle ETS 800 • VLCT
   
