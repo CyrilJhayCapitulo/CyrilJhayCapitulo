@@ -61,7 +61,6 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel_Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
