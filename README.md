@@ -156,7 +156,15 @@ Designed a centralized platform concept to improve accessibility, organization, 
 
 Developed an IoT-based soil quality monitoring system as an undergraduate thesis project for precision agriculture. The system measures pH, electrical conductivity (EC), soil moisture, soil temperature, and NPK levels to provide real-time soil analysis and support controlled nutrient management. It also includes an Android mobile application that enables users to remotely monitor soil conditions as well as control irrigation and fertigation systems.
 
-[![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1bLoxdEASWTDv7apO2TGFBWmbRqIUGeac?usp=sharing)
+[![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-S-gF4AHOolp-BGFvEoO_CTz82WiKGxu/view?usp=sharing)
+
+### 📚 E-Library Management System
+
+**VB.NET • MySQL • phpMyAdmin • Windows Forms**
+
+Designed and developed a desktop-based library management system featuring teacher and student portals, secure user authentication, digital file management, text-to-speech, note management, and searchable learning resources to streamline the distribution of educational materials.
+
+[![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Wkvbr0EqWhgqnVCK3kYP6ACxUrhkMMyT?usp=sharing)
 
 ---
 
