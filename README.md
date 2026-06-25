@@ -20,8 +20,10 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 ## 🔨 Featured Projects
 
 <h3>
-📑 SheetDiff
-<sub><a href="https://github.com/CyrilJhayCapitulo/SheetDiff">↗Repository</a></sub>
+  📑 SheetDiff
+  <a href="https://github.com/CyrilJhayCapitulo/SheetDiff">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="14">
+  </a>
 </h3>
 
 **Python • CustomTkinter • OpenPyXL • tksheet**
