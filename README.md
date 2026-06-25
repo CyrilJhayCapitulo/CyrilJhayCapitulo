@@ -78,10 +78,6 @@ Arduino • ESP32 • Embedded Programming • Sensor Integration • IoT System
 
 Artificial Intelligence • Generative AI • Machine Learning • Business Intelligence
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyrilJhayCapitulo&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilJhayCapitulo&layout=compact&theme=github_dark)
-
 ## 🔒 Professional Projects
 
 The following projects were developed in professional and research environments. Due to confidentiality, intellectual property, and NDA restrictions, source code and implementation details cannot be publicly shared.
