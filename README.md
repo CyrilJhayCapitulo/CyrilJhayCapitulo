@@ -99,9 +99,6 @@ An AI-powered application that analyzes uploaded datasets and answers questions 
 ### Data Analytics Dashboard *(Planned)*
 Interactive dashboard for visualizing trends, KPIs, and business insights.
 
-### Excel Comparison Tool *(Planned)*
-Desktop application for comparing Excel workbooks and generating difference reports.
-
 ### Resume Job Matcher *(Planned)*
 AI-assisted tool that compares resumes against job descriptions and identifies skill gaps.
 
