@@ -2,15 +2,13 @@
 
 You can call me **Cy** for short. 😊
 
-I'm an Electronics Engineer passionate about **Python**, **Artificial Intelligence**, **Data Analytics**, and **Software Development**.
-
-My experience spans engineering automation, semiconductor test systems, data processing, and software solutions. I enjoy building tools that simplify complex workflows, improve productivity, and transform data into actionable insights.
+Electronics Engineer with experience in semiconductor test engineering, engineering automation, and AI-assisted software development. Currently pursuing a Master of Data Analytics in New Zealand, with a passion for building data-driven applications, desktop software, and intelligent automation solutions.
 
 ---
 
 ## 🔨 Featured Projects
 
-# 📑 SheetDiff
+### 📑 SheetDiff
 
 SheetDiff is a Python-based desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
 
@@ -26,7 +24,7 @@ SheetDiff is a Python-based desktop application for comparing Excel spreadsheets
 
 ---
 
-# ⚒️ QueryForge
+### ⚒️ QueryForge
 
 QueryForge is a Python-based desktop application for visually building and executing SQL queries on SQLite databases. Designed for developers, data analysts, students, and database professionals, it simplifies database exploration through an intuitive graphical interface. Users can browse database schemas, generate SQL queries, preview SQL statements, execute queries safely, and export results to Excel without manually writing SQL.
 
@@ -50,6 +48,9 @@ QueryForge is a Python-based desktop application for visually building and execu
 **Languages**
 - Python
 - SQL
+- C/C++
+- Java
+- Kotlin
 
 **Data Analytics**
 - Pandas
@@ -62,9 +63,12 @@ QueryForge is a Python-based desktop application for visually building and execu
 - SQLite
 - MySQL
 - Databricks (Learning)
+- ETL Fundamentals
 
-**Development**
+**Web, Software and Mobile Development**
+- Android Studio
 - CustomTkinter
+- Object-Oriented Programming
 - Git
 - GitHub
 
@@ -190,14 +194,17 @@ Designed a centralized platform concept to improve accessibility, organization, 
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/cyriljhayvcapitulo/
-- Email: cvcapitulo@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyril%20Capitulo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cyriljhayvcapitulo/)
 
----
-
-> *Turning engineering challenges into software solutions.*
+[![Email](https://img.shields.io/badge/Email-cvcapitulo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvcapitulo@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+> *Building intelligent software and data-driven solutions that transform complex engineering challenges into real-world impact.*
+
+
