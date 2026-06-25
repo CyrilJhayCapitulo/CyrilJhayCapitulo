@@ -78,21 +78,11 @@ Arduino • ESP32 • Embedded Programming • Sensor Integration • IoT System
 
 Artificial Intelligence • Generative AI • Machine Learning • Business Intelligence
 
----
-## 🔨 Future Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyrilJhayCapitulo&show_icons=true&theme=github_dark)
 
-### AI Data Assistant *(In Development)*
-An AI-powered application that analyzes uploaded datasets and answers questions using natural language.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilJhayCapitulo&layout=compact&theme=github_dark)
 
-### Data Analytics Dashboard *(Planned)*
-Interactive dashboard for visualizing trends, KPIs, and business insights.
-
-### Resume Job Matcher *(Planned)*
-AI-assisted tool that compares resumes against job descriptions and identifies skill gaps.
-
----
-
-## 🔒 Professional & Research Projects
+## 🔒 Professional Projects
 
 The following projects were developed in professional and research environments. Due to confidentiality, intellectual property, and NDA restrictions, source code and implementation details cannot be publicly shared.
 
@@ -150,6 +140,8 @@ Designed a centralized platform concept to improve accessibility, organization, 
 
 ---
 
+## 📚 Academic Research Projects
+
 ### 🎓 IoT-Based Soil Quality Tester with Controlled Release of NPK Fertilizer
 
 **Arduino • ESP32 • Firebase • Android Studio • IoT • Sensor Integration**
@@ -168,27 +160,20 @@ Designed and developed a desktop-based library management system featuring teach
 
 [![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Wkvbr0EqWhgqnVCK3kYP6ACxUrhkMMyT?usp=sharing)
 
+<!--
 ---
 
-## 🔬 Domain Expertise
+## 🔨 Future Projects
 
-- Semiconductor Test Engineering
-- Automated Test Equipment (ATE)
-- Engineering Automation
-- Test Program Analysis
-- Data Extraction & Reporting
-- Process Optimization
-- AI-Assisted Engineering Tools
+### AI Data Assistant *(In Development)*
+An AI-powered application that analyzes uploaded datasets and answers questions using natural language.
 
----
+### Data Analytics Dashboard *(Planned)*
+Interactive dashboard for visualizing trends, KPIs, and business insights.
 
-## 🎯 Career Goals
-
-- Build impactful software and analytics solutions
-- Advance expertise in Data Analytics and Artificial Intelligence
-- Contribute to innovative engineering and software projects
-- Continuously learn and grow as an engineer and developer
-
+### Resume Job Matcher *(Planned)*
+AI-assisted tool that compares resumes against job descriptions and identifies skill gaps.
+-->
 ---
 
 ## 📫 Connect With Me
