@@ -37,23 +37,18 @@ My experience spans engineering automation, semiconductor test systems, data pro
 - Eagle Test Systems 364
 - Eagle Test Systems 800
 - VLCT (Very Low Cost Tester)
-
-### Areas of Interest
-- Artificial Intelligence
-- Data Analytics
-- Machine Learning
-- Business Intelligence
-- Engineering Automation
-- Software Development
-
+  
 ---
 
 ## 🌱 Currently Exploring
 
-- AI-Powered Applications
-- Business Intelligence
-- Cloud Technologies
-
+- 🤖 Artificial Intelligence & Generative AI
+- 📊 Data Analytics & Business Intelligence
+- 📈 Microsoft Power BI
+- ⚡ Databricks & Data Engineering
+- ☁️ Cloud Technologies (Microsoft Azure)
+- 🧠 Machine Learning
+  
 ---
 
 ## 🔨 Featured Projects
