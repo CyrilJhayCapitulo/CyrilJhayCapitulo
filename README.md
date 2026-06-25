@@ -20,8 +20,8 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 ## 🔨 Featured Projects
 
 <h3>
-  <a href="https://github.com/CyrilJhayCapitulo/SheetDiff">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="18"> 📑 SheetDiff
+  <a href="https://github.com/CyrilJhayCapitulo/SheetDiff" title="View Repository">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="18" /> 📑 SheetDiff
   </a>
 </h3>
 
@@ -32,8 +32,8 @@ A Python desktop application for comparing Excel spreadsheets side-by-side. Desi
 ---
 
 <h3>
-  <a href="https://github.com/CyrilJhayCapitulo/QueryForge
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="18"> ⚒️ QueryForge
+  <a href="https://github.com/CyrilJhayCapitulo/QueryForge" title="View Repository">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="18" /> ⚒️ QueryForge
   </a>
 </h3>
 
