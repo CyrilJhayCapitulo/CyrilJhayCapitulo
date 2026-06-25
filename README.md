@@ -19,14 +19,16 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 
 ## 🔨 Featured Projects
 
-### 📑 SheetDiff [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CyrilJhayCapitulo/SheetDiff)
+<h3> 📑 SheetDiff <a href="https://github.com/CyrilJhayCapitulo/SheetDiff"> <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="20"> </a> </h3>
+
 **Python • CustomTkinter • OpenPyXL • tksheet**
 
 A Python desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
 
 ---
 
-### ⚒️ QueryForge [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CyrilJhayCapitulo/QueryForge)
+<h3> ⚒️ QueryForge <a href="https://github.com/CyrilJhayCapitulo/QueryForge"> <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="20"> </a> </h3>
+
 **Python • SQLite • CustomTkinter • OpenPyXL • tksheet**
 
 A modern SQL Query Builder and Database Explorer built with Python, SQLite, and CustomTkinter. It enables users to visually build SQL queries, explore database schemas, execute queries, and export results to Excel.
