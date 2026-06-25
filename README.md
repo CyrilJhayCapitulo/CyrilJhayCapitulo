@@ -72,6 +72,8 @@ SheetDiff is a Python-based desktop application for comparing Excel spreadsheets
 - Dark and light mode support
 - Built with CustomTkinter and tksheet
 
+---
+
 # QueryForge
 
 QueryForge is a Python-based desktop application for visually building and executing SQL queries on SQLite databases. Designed for developers, data analysts, students, and database professionals, it simplifies database exploration through an intuitive graphical interface. Users can browse database schemas, generate SQL queries, preview SQL statements, execute queries safely, and export results to Excel without manually writing SQL.
@@ -88,7 +90,9 @@ QueryForge is a Python-based desktop application for visually building and execu
 - Export query results to Excel (.xlsx)
 - Modern dark-themed user interface
 - Built with **Python**, **CustomTkinter**, **SQLite**, **OpenPyXL**, and **tksheet**
-  
+
+---
+
 ### AI Data Assistant *(In Development)*
 An AI-powered application that analyzes uploaded datasets and answers questions using natural language.
 
