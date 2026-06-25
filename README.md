@@ -156,6 +156,8 @@ Designed a centralized platform concept to improve accessibility, organization, 
 
 Developed an IoT-based soil quality monitoring system as an undergraduate thesis project for precision agriculture. The system measures pH, electrical conductivity (EC), soil moisture, soil temperature, and NPK levels to provide real-time soil analysis and support controlled nutrient management. It also includes an Android mobile application that enables users to remotely monitor soil conditions as well as control irrigation and fertigation systems.
 
+[![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1bLoxdEASWTDv7apO2TGFBWmbRqIUGeac?usp=sharing)
+
 ---
 
 ## 🔬 Domain Expertise
