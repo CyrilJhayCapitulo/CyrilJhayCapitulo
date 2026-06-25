@@ -12,8 +12,11 @@ My experience spans engineering automation, semiconductor test systems, data pro
 
 ### Programming & Development
 - Python
-- SQL
+- SQL (SQLite, MySQL,etc.)
 - Git & GitHub
+- Object-Oriented Programming (OOP)
+- Desktop & Mobile Application Development
+- Web Development
 
 ### Data & Analytics
 - Pandas
@@ -21,6 +24,13 @@ My experience spans engineering automation, semiconductor test systems, data pro
 - Streamlit
 - Data Visualization
 - Data Processing & Automation
+
+### GUI & Database
+- CustomTkinter
+- tksheet
+- SQLite
+- SQL Query Development
+- pHpMyAdmin
 
 ### Engineering Test Systems
 - Eagle Test Systems 88
