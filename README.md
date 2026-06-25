@@ -19,14 +19,14 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 
 ## 🔨 Featured Projects
 
-### 📑 [![SheetDiff](https://img.shields.io/badge/Repository-SheetDiff-181717?style=for-the-badge&logo=github)](https://github.com/CyrilJhayCapitulo/SheetDiff)
+### 📑 [![SheetDiff]](https://github.com/CyrilJhayCapitulo/SheetDiff)
 **Python • CustomTkinter • OpenPyXL • tksheet**
 
 A Python desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
 
 ---
 
-### ⚒️ [![QueryForge](https://img.shields.io/badge/Repository-QueryForge-181717?style=for-the-badge&logo=github)](https://github.com/CyrilJhayCapitulo/QueryForge)
+### ⚒️ [![QueryForge]](https://github.com/CyrilJhayCapitulo/QueryForge)
 
 **Python • SQLite • CustomTkinter • OpenPyXL • tksheet**
 
