@@ -148,7 +148,9 @@ Designed a centralized platform concept to improve accessibility, organization, 
 **Presented At**
 - TI Philippines New Wave Summit 2026
 
-### 🌱 IoT-Based Soil Quality Tester with Controlled Release of NPK Fertilizer
+---
+
+### 🎓 IoT-Based Soil Quality Tester with Controlled Release of NPK Fertilizer
 
 **Arduino • ESP32 • Firebase • Android Studio • IoT • Sensor Integration**
 
