@@ -191,7 +191,7 @@ Designed a centralized platform concept to improve accessibility, organization, 
 - Continuously learn and grow as an engineer and developer
 
 ---
-```markdown
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyril%20Jhay%20Capitulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyriljhayvcapitulo/)
