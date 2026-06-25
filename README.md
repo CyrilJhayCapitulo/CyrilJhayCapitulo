@@ -72,25 +72,12 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Additional Skills**
-- ETL Fundamentals
-
-### 🖥️ Software & Mobile Development
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Additional Skills**
-- CustomTkinter
-- Object-Oriented Programming (OOP)
-
 ### 🔬 Engineering Test Systems
 
-- Eagle Test Systems 88
-- Eagle Test Systems 364
-- Eagle Test Systems 800
-- VLCT (Very Low Cost Tester)
+![Eagle ETS 88](https://img.shields.io/badge/Eagle_ETS_88-Engineering-blue?style=for-the-badge)
+![Eagle ETS 364](https://img.shields.io/badge/Eagle_ETS_364-Engineering-blue?style=for-the-badge)
+![Eagle ETS 800](https://img.shields.io/badge/Eagle_ETS_800-Engineering-blue?style=for-the-badge)
+![VLCT](https://img.shields.io/badge/VLCT-Test_System-darkgreen?style=for-the-badge)
   
 ---
 
@@ -101,8 +88,8 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- Business Intelligence
-- Generative AI
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge)
 
 ---
 ## 🔨 Future Projects
