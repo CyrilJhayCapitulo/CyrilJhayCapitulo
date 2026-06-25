@@ -46,38 +46,6 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 
 ---
 
-## 🚀 Technical Stack
-
-#### 💻 Languages
-
-Python • SQL • C/C++ • Java • Kotlin
-
-#### 📊 Data Analytics
-
-Pandas • Spotfire • Excel Macros • Power BI *(Learning)*
-
-#### ☁️ Cloud Technologies
-
-Firebase • Microsoft Azure *(Learning)*
-
-#### 🗄️ Data Engineering
-
-SQLite • MySQL • Databricks *(Learning)*
-
-#### 🔬 Engineering Test Systems
-
-Eagle ETS 88 • Eagle ETS 364 • Eagle ETS 800 • VLCT
-
-#### 🔌 Embedded Systems & IoT
-
-Arduino • ESP32 • Embedded Programming • Sensor Integration • IoT Systems
-  
----
-
-## 🌱 Currently Exploring
-
-Artificial Intelligence • Generative AI • Machine Learning • Business Intelligence
-
 ## 🔒 Professional Projects
 
 The following projects were developed in professional and research environments. Due to confidentiality, intellectual property, and NDA restrictions, source code and implementation details cannot be publicly shared.
@@ -155,6 +123,39 @@ Developed an IoT-based soil quality monitoring system as an undergraduate thesis
 Designed and developed a desktop-based library management system featuring teacher and student portals, secure user authentication, digital file management, text-to-speech, note management, and searchable learning resources to streamline the distribution of educational materials.
 
 [![Documentation](https://img.shields.io/badge/Documentation-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Wkvbr0EqWhgqnVCK3kYP6ACxUrhkMMyT?usp=sharing)
+
+
+## 🚀 Technical Stack
+
+#### 💻 Languages
+
+Python • SQL • C/C++ • Java • Kotlin
+
+#### 📊 Data Analytics
+
+Pandas • Spotfire • Excel Macros • Power BI *(Learning)*
+
+#### ☁️ Cloud Technologies
+
+Firebase • Microsoft Azure *(Learning)*
+
+#### 🗄️ Data Engineering
+
+SQLite • MySQL • Databricks *(Learning)*
+
+#### 🔬 Engineering Test Systems
+
+Eagle ETS 88 • Eagle ETS 364 • Eagle ETS 800 • VLCT
+
+#### 🔌 Embedded Systems & IoT
+
+Arduino • ESP32 • Embedded Programming • Sensor Integration • IoT Systems
+  
+---
+
+## 🌱 Currently Exploring
+
+Artificial Intelligence • Generative AI • Machine Learning • Business Intelligence
 
 <!--
 ---
