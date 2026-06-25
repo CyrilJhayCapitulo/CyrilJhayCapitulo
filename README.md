@@ -6,40 +6,34 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 
 ---
 
+## 🏅 Highlights
+
+- 🥇 **1st Runner-Up** — TI Philippines New Wave Summit 2026
+- 🥈 **2nd Runner-Up** — TI Clark Technical Symposium 2025
+- 🎤 **Best Presenter Award** — TI Clark Technical Symposium 2025
+- 🏆 **Poster Awardee** — TI Philippines Technical Conference 2025
+- 🎓 **Master of Data Analytics** (Current) — New Zealand Skills and Education Group
+- 💼 Former Semiconductor Test Engineer at Texas Instruments
+  
+---
+
 ## 🔨 Featured Projects
 
 ### 📑 SheetDiff
+**Python • CustomTkinter • OpenPyXL • tksheet**
 
-SheetDiff is a Python-based desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
+A Python desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
 
-#### Features
-
-- Side-by-side Excel comparison
-- Visual highlighting of added, deleted, and modified cells
-- Key-column based matching
-- Row alignment for easier review
-- Export comparison results to Excel
-- Dark and light mode support
-- Built with CustomTkinter and tksheet
+🔗 **Repository:** https://github.com/CyrilJhayCapitulo/SheetDiff
 
 ---
 
 ### ⚒️ QueryForge
+**Python • SQLite • CustomTkinter • OpenPyXL • tksheet**
 
-QueryForge is a Python-based desktop application for visually building and executing SQL queries on SQLite databases. Designed for developers, data analysts, students, and database professionals, it simplifies database exploration through an intuitive graphical interface. Users can browse database schemas, generate SQL queries, preview SQL statements, execute queries safely, and export results to Excel without manually writing SQL.
+A modern SQL Query Builder and Database Explorer built with Python, SQLite, and CustomTkinter. It enables users to visually build SQL queries, explore database schemas, execute queries, and export results to Excel.
 
-#### Features
-
-- Connect to SQLite databases
-- Browse database tables and columns
-- Visual SQL query builder
-- Dynamic filtering with multiple comparison operators
-- Live SQL preview
-- Safe SQL query execution
-- Interactive query results using **tksheet**
-- Export query results to Excel (.xlsx)
-- Modern dark-themed user interface
-- Built with **Python**, **CustomTkinter**, **SQLite**, **OpenPyXL**, and **tksheet**
+🔗 **Repository:** https://github.com/CyrilJhayCapitulo/QueryForge
 
 ---
 
@@ -158,16 +152,6 @@ Designed a centralized platform concept to improve accessibility, organization, 
 
 **Presented At**
 - TI Philippines New Wave Summit 2026
-  
----
-
-## 🏅 Achievements
-
-- 🥇 1st Runner-Up — TI Philippines New Wave Summit 2026
-- 🥈 2nd Runner-Up — TI Clark Technical Symposium 2025
-- 🎤 Best Presenter Award — TI Clark Technical Symposium 2025
-- 🏆 Poster Awardee — TI Philippines Technical Conference 2025
-- 🚀 New Wave Summit 2026 Participant
 
 ---
 
