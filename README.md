@@ -12,7 +12,7 @@ Electronics Engineer with experience in semiconductor test engineering, engineer
 
 SheetDiff is a Python-based desktop application for comparing Excel spreadsheets side-by-side. Designed for engineers, analysts, and data professionals, it automatically detects added, deleted, and modified data, highlights differences visually, and generates comparison reports to streamline spreadsheet reviews.
 
-## Features
+#### Features
 
 - Side-by-side Excel comparison
 - Visual highlighting of added, deleted, and modified cells
@@ -28,7 +28,7 @@ SheetDiff is a Python-based desktop application for comparing Excel spreadsheets
 
 QueryForge is a Python-based desktop application for visually building and executing SQL queries on SQLite databases. Designed for developers, data analysts, students, and database professionals, it simplifies database exploration through an intuitive graphical interface. Users can browse database schemas, generate SQL queries, preview SQL statements, execute queries safely, and export results to Excel without manually writing SQL.
 
-## Features
+#### Features
 
 - Connect to SQLite databases
 - Browse database tables and columns
