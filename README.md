@@ -67,6 +67,10 @@ SQLite • MySQL • Databricks *(Learning)*
 #### 🔬 Engineering Test Systems
 
 Eagle ETS 88 • Eagle ETS 364 • Eagle ETS 800 • VLCT
+
+#### 🔌 Embedded Systems & IoT
+
+Arduino • ESP32 • Embedded Programming • Sensor Integration • IoT Systems
   
 ---
 
@@ -143,6 +147,12 @@ Designed a centralized platform concept to improve accessibility, organization, 
 
 **Presented At**
 - TI Philippines New Wave Summit 2026
+
+### 🌱 IoT-Based Soil Quality Tester with Controlled Release of NPK Fertilizer
+
+**Arduino • ESP32 • Firebase • Android Studio • IoT • Sensor Integration**
+
+Developed an IoT-based soil quality monitoring system as an undergraduate thesis project for precision agriculture. The system measures pH, electrical conductivity (EC), soil moisture, soil temperature, and NPK levels to provide real-time soil analysis and support controlled nutrient management. It also includes an Android mobile application that enables users to remotely monitor soil conditions as well as control irrigation and fertigation systems.
 
 ---
 
