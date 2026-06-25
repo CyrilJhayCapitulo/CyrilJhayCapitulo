@@ -8,49 +8,6 @@ My experience spans engineering automation, semiconductor test systems, data pro
 
 ---
 
-## 🚀 Technical Skills
-
-### Programming & Development
-- Python
-- SQL (SQLite, MySQL,etc.)
-- Git & GitHub
-- Object-Oriented Programming (OOP)
-- Desktop & Mobile Application Development
-- Web Development
-
-### Data & Analytics
-- Pandas
-- OpenPyXL
-- Streamlit
-- Data Visualization
-- Data Processing & Automation
-
-### GUI & Database
-- CustomTkinter
-- tksheet
-- SQLite
-- SQL Query Development
-- pHpMyAdmin
-
-### Engineering Test Systems
-- Eagle Test Systems 88
-- Eagle Test Systems 364
-- Eagle Test Systems 800
-- VLCT (Very Low Cost Tester)
-  
----
-
-## 🌱 Currently Exploring
-
-- 🤖 Artificial Intelligence & Generative AI
-- 📊 Data Analytics & Business Intelligence
-- 📈 Microsoft Power BI
-- ⚡ Databricks & Data Engineering
-- ☁️ Cloud Technologies (Microsoft Azure)
-- 🧠 Machine Learning
-  
----
-
 ## 🔨 Featured Projects
 
 # 📑 SheetDiff
@@ -87,6 +44,49 @@ QueryForge is a Python-based desktop application for visually building and execu
 - Built with **Python**, **CustomTkinter**, **SQLite**, **OpenPyXL**, and **tksheet**
 
 ---
+
+## 🚀 Technical Skills
+
+**Languages**
+- Python
+- SQL
+
+**Data Analytics**
+- Pandas
+- Power BI (Learning)
+- Streamlit
+- OpenPyXL
+- Excel Macros
+
+**Data Engineering**
+- SQLite
+- MySQL
+- Databricks (Learning)
+
+**Development**
+- CustomTkinter
+- Git
+- GitHub
+
+### Engineering Test Systems
+- Eagle Test Systems 88
+- Eagle Test Systems 364
+- Eagle Test Systems 800
+- VLCT (Very Low Cost Tester)
+  
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence & Generative AI
+- 📊 Data Analytics & Business Intelligence
+- 📈 Microsoft Power BI
+- ⚡ Databricks & Data Engineering
+- ☁️ Cloud Technologies (Microsoft Azure)
+- 🧠 Machine Learning
+  
+---
+## 🔨 Future Projects
 
 ### AI Data Assistant *(In Development)*
 An AI-powered application that analyzes uploaded datasets and answers questions using natural language.
@@ -196,3 +196,8 @@ Designed a centralized platform concept to improve accessibility, organization, 
 ---
 
 > *Turning engineering challenges into software solutions.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
