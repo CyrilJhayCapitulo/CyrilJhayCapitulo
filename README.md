@@ -46,36 +46,47 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Technical Stack
 
-**Languages**
-- Python
-- SQL
-- C/C++
-- Java
-- Kotlin
+### 💻 Languages
 
-**Data Analytics**
-- Pandas
-- Power BI (Learning)
-- Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Additional Skills**
 - OpenPyXL
 - Excel Macros
 
-**Data Engineering**
-- SQLite
-- MySQL
-- Databricks (Learning)
+### 🗄️ Data Engineering
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Additional Skills**
 - ETL Fundamentals
 
-**Web, Software and Mobile Development**
-- Android Studio
-- CustomTkinter
-- Object-Oriented Programming
-- Git
-- GitHub
+### 🖥️ Software & Mobile Development
 
-### Engineering Test Systems
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Additional Skills**
+- CustomTkinter
+- Object-Oriented Programming (OOP)
+
+### 🔬 Engineering Test Systems
+
 - Eagle Test Systems 88
 - Eagle Test Systems 364
 - Eagle Test Systems 800
@@ -85,13 +96,14 @@ A modern SQL Query Builder and Database Explorer built with Python, SQLite, and 
 
 ## 🌱 Currently Exploring
 
-- 🤖 Artificial Intelligence & Generative AI
-- 📊 Data Analytics & Business Intelligence
-- 📈 Microsoft Power BI
-- ⚡ Databricks & Data Engineering
-- ☁️ Cloud Technologies (Microsoft Azure)
-- 🧠 Machine Learning
-  
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- Business Intelligence
+- Generative AI
+
 ---
 ## 🔨 Future Projects
 
